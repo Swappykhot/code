@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'Swappy07'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DE981E6759D045648B8F770A1A7DC15C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BB65F643503549D887841BFCB5464D5D }}
           package: .
